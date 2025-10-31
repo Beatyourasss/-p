@@ -1,0 +1,1 @@
+window.open("beatyourasss.github.io/-p", "_blank"); 
